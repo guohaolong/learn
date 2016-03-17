@@ -1,3 +1,2 @@
-﻿
-Git is free software under the GPL
+﻿Git is free software under the GPL
 Hello world
